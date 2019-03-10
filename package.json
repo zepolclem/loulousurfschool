@@ -1,0 +1,44 @@
+{
+  "title": "Scrolling Nav",
+  "name": "startbootstrap-scrolling-nav",
+  "version": "4.1.2",
+  "description": "A smooth scrolling navigation HTML template built with Bootstrap",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://startbootstrap.com/template-overviews/scrolling-nav",
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/issues",
+    "email": "feedback@startbootstrap.com"
+  },
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-scrolling-nav.git"
+  },
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.6",
+    "bootstrap": "^4.2.1",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2",
+    "browser-sync": "2.26.3",
+    "gulp": "4.0.0"
+  },
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
